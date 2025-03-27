@@ -1,1 +1,2 @@
 checking Git add, commit and push.
+created new feature.
