@@ -1,2 +1,2 @@
-checking Git add, commit and push.
+checking Git add, commit and push.(ngs feature1)
 created new feature.
